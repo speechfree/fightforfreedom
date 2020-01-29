@@ -8,6 +8,5 @@
 
 ## 网站
 
- [freespeech](http://freespeech.netlify.com)
 
  [Github Pages](https://speechfree.github.io/fightforfreedom/)
